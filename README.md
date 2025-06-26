@@ -1,4 +1,4 @@
-Hi 👋, My name is Dima
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=F9DFCF&size=30&lines=Hi+👋,+My+name+is+Dima)](https://git.io/typing-svg)
 ============================================================================================================================
 
 Python developer
